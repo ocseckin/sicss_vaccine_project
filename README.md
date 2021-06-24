@@ -14,6 +14,7 @@ Python --> https://www.python.org/downloads/release/python-395/
 R --> https://cran.r-project.org/bin/windows/base/
 
  *Data Collection*
+ 
  We used Twitter's academic API to obtain the dataset that contains some keywords.
  The time interval of the tweets is determined as from March 1, 2020 to June 18, 2021.
  Key words: 
