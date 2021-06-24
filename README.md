@@ -9,6 +9,7 @@ The manufacturing of vaccines plays an important role for Covid-19 pandemic to b
 **4-)** If there is any observable effect of the number of bots on social perception toward vaccination.
 
 *Installation*
+
 We used Google Colaboratory, Python 3.9.5- Jupyter, and R, R Studio for the study.
 Python --> https://www.python.org/downloads/release/python-395/
 R --> https://cran.r-project.org/bin/windows/base/
