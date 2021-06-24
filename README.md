@@ -5,7 +5,9 @@ The manufacturing of vaccines plays an important role for Covid-19 pandemic to b
 **1-)** How the nomenclature of vaccines differs in Turkey and how it is reflected on the attitude toward vaccination
 
 **2-)** Whether any of these vaccines are promoted or demoted by the international media sources that are active in Turkey by looking at the sentiments and frequencies of Covid-19 related vaccine news.
+
 **3-)** Whether pronoun usage differs according to the sentiment of tweets.
+
 **4-)** If there is any observable effect of the number of bots on social perception toward vaccination.
 
 *Installation*
